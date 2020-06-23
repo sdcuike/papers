@@ -11,5 +11,4 @@ https://io-meter.com/2017/10/13/kylin-aws-scheduler-system/
 
 
 
-https://github.com/Netflix/genie
 
