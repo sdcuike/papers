@@ -12,3 +12,6 @@ https://io-meter.com/2017/10/13/kylin-aws-scheduler-system/
 
 
 
+
+https://www.cs.rochester.edu/u/scott/home.shtml
+
